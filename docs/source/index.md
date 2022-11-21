@@ -6,11 +6,17 @@
 ```{include} ../../README.md
 :relative-images:
 ```
+
+For futher info, check out {doc}`usage`
+Read installation instructions in {ref}`Installation`.
+
 ```{warning}
 This page is under heavy development
 ```
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+usage
 ```
 
