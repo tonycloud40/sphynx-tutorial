@@ -13,4 +13,4 @@ doc = [
     "myst_parser",
     "furo",
     "nbsphinx",
-]
+    ]
