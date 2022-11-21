@@ -13,10 +13,12 @@ Read installation instructions in {ref}`Installation`.
 ```{warning}
 This page is under heavy development
 ```
+
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
 
 usage
+notebooks/tutorial
 ```
 
