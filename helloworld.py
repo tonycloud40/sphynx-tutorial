@@ -1,7 +1,7 @@
-import sys
-
 """ Multi line documentation string
 describing module."""
+
+import sys
 
 __version__ = "0.1.0"
 
