@@ -8,6 +8,14 @@ This is just an example
 (venv)$ pip install helloworld
 ```
 
+## Hello World
+This is the link of the class {py:func}`helloworld.HelloWorld` function:
+
+to Use Hello World Class
+```{eval-rst}
+.. autofunction:: helloworld.HelloWorld
+```
+
 # Create Recipes
 to create a recipe:
 ```{eval-rst}
